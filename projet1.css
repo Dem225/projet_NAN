@@ -1,0 +1,118 @@
+body{
+    height: 120vh;
+}
+.sa{
+    background-image: url(./image\ 7.png);
+     height: 800px;
+    width: 100%;  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+    
+}
+
+.aa{
+    height: 800px;
+    width: 100%;
+    background-image: url(./image\ 7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 120vh;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 7%;
+}
+
+.logo{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.nav-links li{
+    list-style: none;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.salut{
+    height: 300px;
+    width: 900px;
+    
+   background-color: aliceblue;
+    position: absolute;
+   padding: 10px;
+   top: 100%;
+   left: 50%;
+   transform:translate( -50% , -55%);
+   border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+   
+}
+.az{
+   height: 120px;
+    width: 100%;
+    
+    border-radius: 30px;;
+}
+.AZ{
+    width: 100%;
+       border-radius: 30px;
+       display: flex;
+      gap: 20px;
+       align-items: center;
+}
+
+.toi{
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aqua;
+
+}
+.toi1{
+font-size: 26px;
+}
+.v{
+    
+    flex-grow: 1;
+    border:1px solid #2b2828;
+     border-radius: 18px;
+     display: flex;
+     align-items: center;
+     gap: 10px;
+}
+i{
+    font-size: 50px;
+
+}
+ul{
+    font-family: 'Poppins',sans-serif;
+    text-align: start; 
+   
+}
+#walter{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+    
+   
+}
