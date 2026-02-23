@@ -1,118 +1,405 @@
-body{
-    height: 120vh;
+body {
+  height: 120vh;
 }
-.sa{
-    background-image: url(./image\ 7.png);
-     height: 800px;
-    width: 100%;  
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    
-    
-}
-
-.aa{
-    height: 800px;
-    width: 100%;
-    background-image: url(./image\ 7.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    height: 120vh;
+.sa {
+  background-image: url(./image\ 7.png);
+  height: 800px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
 }
 
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20px 7%;
+.aa {
+  height: 800px;
+  width: 100%;
+  background-image: url(./image\ 7.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 120vh;
 }
 
-.logo{
-    color: #fff;
-    font-size: 30px;
-    font-weight: bold;
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 7%;
 }
 
-.nav-links{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
+.logo {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
 }
 
-.nav-links li{
-    list-style: none;
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
 }
 
-.nav-links a{
-    text-decoration: none;
-    color: #fff;
-    font-size: 18px;
+.nav-links li {
+  list-style: none;
 }
-.salut{
-    height: 300px;
-    width: 900px;
-    
-   background-color: aliceblue;
-    position: absolute;
-   padding: 10px;
-   top: 100%;
-   left: 50%;
-   transform:translate( -50% , -55%);
-   border-radius: 30px;
+
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+.salut {
+  height: 300px;
+  width: 900px;
+  background-color: aliceblue;
+  position: absolute;
+  padding: 10px;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -55%);
+  border-radius: 30px;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
-   
 }
-.az{
-   height: 120px;
-    width: 100%;
-    
-    border-radius: 30px;;
+.az {
+  height: 120px;
+  width: 100%;
+
+  border-radius: 30px;
 }
-.AZ{
-    width: 100%;
-       border-radius: 30px;
-       display: flex;
-      gap: 20px;
-       align-items: center;
+.AZ {
+  width: 100%;
+  border-radius: 30px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  border: 1px solid #2b2828;
 }
 
-.toi{
-font-size: 25px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: aqua;
+.toi {
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aqua;
+}
+.toi1 {
+  font-size: 26px;
+}
+.v {
+  flex-grow: 1;
 
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
-.toi1{
-font-size: 26px;
+i {
+  font-size: 30px;
 }
-.v{
-    
-    flex-grow: 1;
-    border:1px solid #2b2828;
-     border-radius: 18px;
-     display: flex;
-     align-items: center;
-     gap: 10px;
+ul {
+  font-family: "Poppins", sans-serif;
+  text-align: start;
 }
-i{
-    font-size: 50px;
+#Foull {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 150px;
+}
+#toi {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  height: 400px;
+  width: 70%;
+  margin: 0 auto;
+  border:1px solid #2b2828;
+}
+.oui {
+  height: 300px;
+  width: 30%;
 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
 }
-ul{
-    font-family: 'Poppins',sans-serif;
-    text-align: start; 
-   
+.QZ {
+  height: 60px;
+  width: 60px;
+
+  margin: 10px;
+  display: flex;
+  justify-content: center;
 }
-#walter{
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    margin: 150px;
-    
-   
+.bonjour {
+  height: 200px;
+  width: 95%;
+
+  text-align: center;
+}
+.QZ i {
+  font-size: 60px;
+  padding: 15px;
+  background-color: rgba(10, 167, 240, 0.257);
+  border-radius: 10px;
+  color: #0bb9e9ad;
+  align-items: center;
+  display: flex;
+  font-size: 60px;
+}
+.bonjour h4 {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#LOBO {
+  height: 100px;
+  width: 90%;
+  border: 1px solid #2b2828;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 10px;
+}
+#Foull1 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.oui1 {
+  height: 100px;
+  width: 20%;
+  border: 1px solid #cf2626;
+}
+#mere {
+  max-height: 50px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: space-around;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.P {
+  height: 80%;
+  min-width: 12%;
+  margin: 3px;
+  display: flex;
+  align-items: center;
+}
+
+.P i {
+  font-size: 22px;
+  margin: 10px;
+}
+
+p .P {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.P {
+  animation: zebi 10s ease infinite;
+}
+
+@keyframes zebi {
+  from {
+    transform: translate(190px);
+  }
+
+  to {
+    transform: translateX(-170px);
+  }
+}
+
+#BUBER {
+  display: flex;
+  justify-content: center;
+}
+
+#page {
+  height: 340px;
+  width: 90%;
+  border: 1px solid rgb(10, 240, 10);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.will {
+  height: 90%;
+  width: 24%;
+  border: 1px solid rgb(254, 121, 12);
+  flex-direction: column;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 5px;
+  overflow: hidden;
+}
+
+.si1{
+  height: 60%;
+  width: 95%;
+  background-image: url(./Rectangle\ 6\ \(2\).png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: end;
+  border-radius: 10px;
+  box-shadow: rgb(38, 57, 77) 5px 20px 30px -10px;
+  border: 1px solid rgb(10, 240, 10);
+}
+
+.sit {
+  height: 32%;
+  width: 95%;
+}
+
+p i {
+  font-size: 30px;
+  background-color: rgba(5, 5, 5, 0.47);
+  color: gold;
+  display: flex;
+  margin: 16px;
+  border-radius: 7px;
+  padding: 3px;
+}
+
+.olli {
+  margin: 7px;
+  display: flex;
+  gap: 70px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.voici i {
+  font-size: 20px;
+}
+
+.voici b {
+  padding: 10px;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.662);
+}
+#BUBER h5 {
+  font-size: 25px;
+  border: 1px solid #2b282838;
+  height: 60px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+}
+#BUBER h1 {
+  font-size: 50px;
+}
+#christelle {
+  height: 800px;
+  width: 100%;
+  border: 1px solid black;
+  margin: 10px;
+  background-image: url(./image\ 13.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  padding: 10px;
+}
+.Page2 {
+  height: 30%;
+  width: 100%;
+  border: 1px solid rgb(17, 15, 15);
+}
+.Page12 {
+  height: 67%;
+  width: 100%;
+  border: 1px solid rgb(9, 227, 20);
+  display: flex;
+  align-items: center;
+  border-top: 4px solid rgb(217, 217, 224);
+}
+.Page2 h1 {
+  font-size: 85px;
+  color: rgb(240, 240, 240);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.texte {
+  height: 97%;
+  width: 45%;
+  border: 3px solid rgb(8, 8, 8);
+  margin: 5px;
+  white-space: normal;
+  gap: 7px;
+  display: flex;
+  flex-direction: column;
+}
+.texte p {
+  font-size: 20px;
+}
+.textes {
+  height: 65%;
+  width: 100%;
+  border: 1px solid rgb(15, 14, 14);
+}
+.TEXTES {
+  height: 30%;
+  width: 100%;
+  border: 1px solid rgb(40, 235, 15);
+}
+#LE h4 {
+  font-size: 20px;
+  border: 2px solid black;
+  height: 50px;
+  width: 130px;
+  background-color: white;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+}
+.texteIMG {
+  height: 90%;
+  width: 65%;
+  border: 3px solid rgb(8, 8, 8);
+  margin: 5px;
+  white-space: normal;
+  padding: 2px;
+  gap: 5px;
+  display: flex;
+}
+.case {
+  height: 97%;
+  width: 32%;
+  border: 2px solid rgb(84, 79, 79);
+  gap: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.Imge {
+  height: 75%;
+  width: 95%;
+  border: 2px solid rgb(237, 59, 59);
+}
+.texTE {
+  height: 20%;
+  width: 95%;
+  border: 2px solid rgb(237, 59, 59);
 }
