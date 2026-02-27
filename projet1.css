@@ -645,9 +645,10 @@ padding: 10px;
       /* border: 3px solid rgb(23, 21, 21); */
       border-radius: 50px;
 box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px; 
+overflow: hidden;
 }
 .imatexte1{
-    height: 37%;
+    height: 35%;
     width: 99%;
       /* border: 2px solid rgb(109, 255, 42); */
 background-image: url(Images/Rectangle\ 33\ \(2\).png);
@@ -656,7 +657,7 @@ background-image: url(Images/Rectangle\ 33\ \(2\).png);
  background-size: cover;
 }
 .imatexte2{
-    height: 37%;
+    height: 35%;
     width: 99%;
       /* border: 2px solid rgb(109, 255, 42); */
       background-image: url(Images/Rectangle\ 33\ \(1\).png);
@@ -665,9 +666,9 @@ background-image: url(Images/Rectangle\ 33\ \(2\).png);
  background-size: cover;
 }
 .imatexte3{
-    height: 37%;
+    height: 35%;
     width: 99%;
-      /* border: 2px solid rgb(109, 255, 42); */
+       border: 2px solid rgb(109, 255, 42);
       background-image: url(Images/Rectangle\ 33.png);
        background-position: center;
  background-repeat: no-repeat;
@@ -728,7 +729,7 @@ font-size: 25px;
   height: 670px;
  width: 100%;
 border: 1px solid black;
-background-image: url(Images/WhatsApp\ Image\ 2026-02-25\ at\ 14.30.36.jpeg);
+background-image: url(Image/WhatsApp\ Image\ 2026-02-25\ at\ 14.30.36.jpeg);
 background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
