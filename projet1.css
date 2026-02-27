@@ -521,6 +521,10 @@ p .P {
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 20px;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .Imge2 {
@@ -533,6 +537,10 @@ p .P {
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 20px;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 
 }
 
@@ -547,6 +555,10 @@ p .P {
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 20px;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .texTE {
@@ -655,6 +667,10 @@ background-image: url(Images/Rectangle\ 33\ \(2\).png);
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
+ align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .imatexte2{
     height: 37%;
@@ -664,6 +680,10 @@ background-image: url(Images/Rectangle\ 33\ \(2\).png);
        background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
+ align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .imatexte3{
     height: 37%;
@@ -673,6 +693,10 @@ background-image: url(Images/Rectangle\ 33\ \(2\).png);
        background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
+ align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .tethe{
     height: 62%;
