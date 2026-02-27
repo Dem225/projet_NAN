@@ -3,7 +3,7 @@ body {
 }
 
 .sa {
-  background-image: url(IMAGE/image\ 7.png);
+  background-image: url(Images/image\ 7.png);
   height: 800px;
   width: 100%;
   background-position: center;
@@ -15,7 +15,7 @@ body {
 .aa {
   height: 800px;
   width: 100%;
-  background-image: url(IMAGE/image\ 7.png);
+  background-image: url(Images/image\ 7.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -281,7 +281,7 @@ p .P {
 .si1 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(2\).png);
+  background-image: url(Images/Rectangle\ 6\ \(2\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -296,7 +296,7 @@ p .P {
 .si2 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(3\).png);
+  background-image: url(Images/Rectangle\ 6\ \(3\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -310,7 +310,7 @@ p .P {
 .si3 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(4\).png);
+  background-image: url(Images/Rectangle\ 6\ \(4\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -324,7 +324,7 @@ p .P {
 .si4 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(5\).png);
+  background-image: url(Images/Rectangle\ 6\ \(5\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -338,7 +338,7 @@ p .P {
 .si5 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(9\).png);
+  background-image: url(Images/Rectangle\ 6\ \(9\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -352,7 +352,7 @@ p .P {
 .si6 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(8\).png);
+  background-image: url(Images/Rectangle\ 6\ \(8\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -366,7 +366,7 @@ p .P {
 .si7 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(7\).png);
+  background-image: url(Images/Rectangle\ 6\ \(7\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -380,7 +380,7 @@ p .P {
 .si8 {
   height: 77%;
   width: 95%;
-  background-image: url(IMAGE/Rectangle\ 6\ \(6\).png);
+  background-image: url(Images/Rectangle\ 6\ \(6\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -438,7 +438,7 @@ p .P {
   width: 100%;
   /* border: 1px solid black; */
   margin: 10px;
-  background-image: url(IMAGE/image\ 13.png);
+  background-image: url(Images/image\ 13.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -516,7 +516,7 @@ p .P {
   width: 90%;
   /* border: 2px solid rgb(201, 36, 36); */
   margin: 9px;
-  background-image: url(IMAGE/Rectangle\ 53.png);
+  background-image: url(Images/Rectangle\ 53.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
