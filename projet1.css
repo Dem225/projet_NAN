@@ -528,7 +528,7 @@ p .P {
   width: 90%;
   /* border: 2px solid rgb(201, 36, 36); */
   margin: 9px;
-  background-image: url(IMAGE/Rectangle\ 54\ \(1\).png);
+  background-image: url(Images/Rectangle\ 54\ \(1\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -542,7 +542,7 @@ p .P {
   width: 90%;
 
   margin: 9px;
-  background-image: url(IMAGE/Rectangle\ 54.png);
+  background-image: url(Images/Rectangle\ 54.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -650,7 +650,7 @@ box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 5
     height: 37%;
     width: 99%;
       /* border: 2px solid rgb(109, 255, 42); */
-background-image: url(IMAGE/Rectangle\ 33\ \(2\).png);
+background-image: url(Images/Rectangle\ 33\ \(2\).png);
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
@@ -659,7 +659,7 @@ background-image: url(IMAGE/Rectangle\ 33\ \(2\).png);
     height: 37%;
     width: 99%;
       /* border: 2px solid rgb(109, 255, 42); */
-      background-image: url(IMAGE/Rectangle\ 33\ \(1\).png);
+      background-image: url(Images/Rectangle\ 33\ \(1\).png);
        background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
@@ -668,7 +668,7 @@ background-image: url(IMAGE/Rectangle\ 33\ \(2\).png);
     height: 37%;
     width: 99%;
       /* border: 2px solid rgb(109, 255, 42); */
-      background-image: url(IMAGE/Rectangle\ 33.png);
+      background-image: url(Images/Rectangle\ 33.png);
        background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
@@ -728,7 +728,7 @@ font-size: 25px;
   height: 670px;
  width: 100%;
 border: 1px solid black;
-background-image: url(IMAGE/WhatsApp\ Image\ 2026-02-25\ at\ 14.30.36.jpeg);
+background-image: url(Images/WhatsApp\ Image\ 2026-02-25\ at\ 14.30.36.jpeg);
 background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
