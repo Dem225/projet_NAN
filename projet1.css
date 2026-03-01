@@ -720,6 +720,7 @@ p .P {
   font-size: 20px;
   border-radius: 20px;
 }
+
 #testimonials {
   height: 700px;
   width: 100%;
@@ -731,7 +732,7 @@ p .P {
   display: flex;
   flex-direction: column;
   gap: 70px;
-margin: 20px;
+  margin: 20px;
 
 }
 
@@ -774,18 +775,19 @@ margin: 20px;
 
 
 
-#GETRE{
+#GETRE {
   height: 400px;
   width: 100%;
   /* border: 2px solid rgb(198, 15, 15); */
-margin: 20px;
-display: flex;
-justify-content: center;
-align-items: center;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 
 }
-.glace{
+
+.glace {
   height: 80%;
   width: 80%;
   /* border: 1px solid black; */
@@ -793,27 +795,28 @@ align-items: center;
   display: flex;
   background-color: rgba(128, 128, 128, 0.162);
   overflow: hidden;
-   border-radius: 30px;
-   gap: 30px;
+  border-radius: 30px;
+  gap: 30px;
 }
 
-.glaceimg{
- width: 400px;
-  height: 100% ;
-   /* border: 1px solid black; */
-    border-radius: 30px;
+.glaceimg {
+  width: 400px;
+  height: 100%;
+  /* border: 1px solid black; */
+  border-radius: 30px;
 }
-.Glacetexte{
-height:100%;
-width:65%;
-/* border: 1px solid rgb(55, 255, 0); */
-display: flex;
-flex-direction: column;
- border-radius: 28px;
+
+.Glacetexte {
+  height: 100%;
+  width: 65%;
+  /* border: 1px solid rgb(55, 255, 0); */
+  display: flex;
+  flex-direction: column;
+  border-radius: 28px;
 
 }
 
-.SOUTITRE{
+.SOUTITRE {
   height: 50%;
   width: 100%;
   /* border: 1px solid rgb(254, 136, 0); */
@@ -821,13 +824,15 @@ flex-direction: column;
   align-items: center;
   display: flex;
   justify-content: center;
-  
+
 }
-.SOUTITRE h2{
+
+.SOUTITRE h2 {
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
-.formulair{
+
+.formulair {
   height: 80px;
   width: 90%;
   /* border: 1px solid rgb(20, 20, 20); */
@@ -838,36 +843,131 @@ flex-direction: column;
   background-color: white;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-.formulairtexte{
+
+.formulairtexte {
   height: 59%;
   width: 50%;
-   /* border: 1px solid rgb(20, 20, 20); */
-justify-content: center;
-   display: flex;
-   align-items: center;
-  
-   
-}
-.formulairtexte2{
-   height: 59%;
-  width: 40%;
-   /* border: 1px solid rgb(20, 20, 20); */
-   border-radius: 30px;
-   justify-content: center;
-   display: flex;
-   align-items: center;
-}
-.formulairtexte span{
-font-size: 20px;
-font-family: Arial, Helvetica, sans-serif;
-color: rgba(0, 0, 0, 0.543);
+  /* border: 1px solid rgb(20, 20, 20); */
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+
 }
 
-.formulairtexte2{
+.formulairtexte2 {
+  height: 59%;
+  width: 40%;
+  /* border: 1px solid rgb(20, 20, 20); */
+  border-radius: 30px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.formulairtexte span {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.543);
+}
+
+.formulairtexte2 {
   background-color: rgba(23, 53, 72, 0.756);
 }
- .formulairtexte2{
+
+.formulairtexte2 {
   font-size: 20px;
   color: #fff;
 
- }
+}
+
+
+#PGEFIN {
+  height: 480px;
+  width: 100%;
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  background-color: #000000;
+}
+
+.PRFIN {
+  height: 87%;
+  width: 100%;
+  /* border: 1px solid rgb(253, 211, 3); */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.FINI {
+  height: 15%;
+  width: 100%;
+  /* border: 1px solid rgb(3, 91, 253); */
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Fintexte {
+  height: 80%;
+  width: 22%;
+  /* border: 1px solid rgb(3, 91, 253); */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Fintexte p {
+  color: #fff;
+}
+
+
+.Fintexte span {
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+}
+
+.Finicone {
+  color: #fff;
+}
+
+
+.Fintexte p {
+  font-size: 17px;
+  color: aliceblue;
+}
+
+.FINISH {
+  height: 95%;
+  width: 48%;
+  /* border: 1px solid black; */
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.FINISH p {
+  color: aliceblue;
+
+}
+
+
+.FINISHIMGE {
+  height: 70px;
+  width: 48%;
+  /* border: 1px solid black; */
+  display: flex;
+  text-align: center;
+
+}
+
+.FINISHIMGE img {
+  height: 40px;
+  width: 98%;
+
+}
